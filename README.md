@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🚀 MugTech  
 
-<!--
-**mugtech-company/mugtech-company** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos a **MugTech**, uma equipe de 4 amigos apaixonados por tecnologia.  
+Nosso objetivo é desenvolver **softwares de alta qualidade**, unindo inovação e boas práticas de engenharia de software.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 O que fazemos  
+- Sistemas web  
+- APIs seguras e escaláveis  
+- Aplicação de padrões de projeto e metodologias ágeis  
+
+---
+
+## 🛠️ Tecnologias  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 📌 Contato  
+📧 mugtech.company@gmail.com 
+
+---
+
+✨ Obrigado por visitar nosso perfil!  
+Siga nossos projetos e acompanhe nossas inovações 🚀
